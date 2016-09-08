@@ -1,3 +1,3 @@
 # glconnect-rel
 
-v0.7.6
+v0.8.4
